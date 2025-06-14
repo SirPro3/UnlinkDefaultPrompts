@@ -1,0 +1,9 @@
+{
+    "name": "unlink-default-prompts",
+    "display_name": "Unlink Default Prompts",
+    "author": "SirPro3",
+    "version": "1.0.0",
+    "description": "Allows default prompts to be unlinked from the prompt manager.",
+    "js": "index.js",
+    "loading_order": 999
+}
