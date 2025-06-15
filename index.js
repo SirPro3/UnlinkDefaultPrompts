@@ -1,4 +1,4 @@
-import { PromptManager, chatCompletionDefaultPrompts } from '../../PromptManager.js';
+import { PromptManager, chatCompletionDefaultPrompts } from '../../../PromptManager.js';
 
 // A set of the default prompt identifiers for quick lookups
 const defaultPromptIdentifiers = new Set(chatCompletionDefaultPrompts.prompts.map(p => p.identifier));
